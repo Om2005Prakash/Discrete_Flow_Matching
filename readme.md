@@ -4,7 +4,10 @@
 > [**Discrete Flow Matching** (2024)](https://arxiv.org/abs/2407.15595)
 
 <p align="center">
-  <img src="./resources/princesspeach.gif" alt="Sampling Process GIF" width="600"/>
+  <img src="./resources/princesspeach.gif" alt="Conditional Generation on Super Mario 64" width="600"/>
+</p>
+<p align="center">
+  <em>Conditional generation example on Super Mario 64</em>
 </p>
 
 ## 📌 Overview
@@ -25,16 +28,6 @@ The model is trained on the **WikiText-103** dataset.
 <p align="center">
   <img src="./resources/entropy.png" alt="Entropy Plot" width="500"/>
 </p>
-
----
-
-## 🎥 Additional Sampling Visualizations
-
-<p align="center">
-  <img src="./resources/iisc2.gif" alt="Sampling Process GIF 2" width="600"/>
-</p>
-
----
 
 ## 🛠️ Setup & Usage
 
