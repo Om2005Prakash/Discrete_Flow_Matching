@@ -24,6 +24,10 @@ The model is trained on the **WikiText-103** dataset.
   <img src="./resources/perplexity.png" alt="Perplexity Plot" width="500"/>
 </p>
 
+<p align="center">
+  <em>Perplexity is measured by evaluating the generated samples using a larger language model, such as GPT-2.</em>
+</p>
+
 ### Entropy vs Sampling Steps
 <p align="center">
   <img src="./resources/entropy.png" alt="Entropy Plot" width="500"/>
